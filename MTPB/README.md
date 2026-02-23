@@ -1,7 +1,7 @@
 # Multi-scale Traffic Pattern Bank for Cross-city Few-shot Traffic Forecasting
 
-## Data
-Save the data in `./data`
+## Data and pre-trained model
+Save the data in `./data`, and save the pretrain_model in `./save`. Download from (https://drive.google.com/drive/folders/1UrKTgR27YmP9PjJ-FWv4SCDH3zUxtc5R?usp=share_link).
 
 ## How to train
 To train the model in all setting, please run following command:
